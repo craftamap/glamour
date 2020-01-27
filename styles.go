@@ -117,6 +117,7 @@ var (
 		},
 		DefinitionDescription: ansi.StylePrimitive{
 			BlockPrefix: "\n* ",
+			BlockSuffix: "\n\n",
 		},
 	}
 
@@ -330,6 +331,7 @@ var (
 		},
 		DefinitionDescription: ansi.StylePrimitive{
 			BlockPrefix: "\n🠶 ",
+			BlockSuffix: "\n\n",
 		},
 	}
 
@@ -542,6 +544,7 @@ var (
 		},
 		DefinitionDescription: ansi.StylePrimitive{
 			BlockPrefix: "\n🠶 ",
+			BlockSuffix: "\n\n",
 		},
 	}
 
@@ -649,6 +652,7 @@ var (
 		},
 		DefinitionDescription: ansi.StylePrimitive{
 			BlockPrefix: "\n🠶 ",
+			BlockSuffix: "\n\n",
 		},
 	}
 
